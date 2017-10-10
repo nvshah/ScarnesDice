@@ -2,10 +2,10 @@
     <string name="app_name">Scarne\'s Dice</string>
     <string name="your_score">Your score : </string>
     <string name="init_value">0</string>
-    <string name="computer_score">Computer Score :</string>
+    <string name="computer_score">Computer Score : </string>
     <string name="init_value1">0</string>
-    <string name="your_turn_score">your turn score</string>
-    <string name="computer_turn_score">computer turn score:</string>
+    <string name="your_turn_score">your turn score : </string>
+    <string name="computer_turn_score">computer turn score : </string>
     <string name="roll">roll</string>
     <string name="hold">hold</string>
     <string name="reset">reset</string>
